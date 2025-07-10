@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header a
+{position:relative;
+left:250px;}
+nav a {
+    border:2px solid blue;
+    padding:20px;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+}
+
